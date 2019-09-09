@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "994107951270",
+    "firebase_url": "https://syndicate-17d7d.firebaseio.com",
+    "project_id": "syndicate-17d7d",
+    "storage_bucket": "syndicate-17d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994107951270:android:1317e022e34b1286",
+        "android_client_info": {
+          "package_name": "in.allbing.syndicate_bank_customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994107951270-qc1cve5gslvm3s5ooivoq68cnugvivlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtLOmUyLzLjJAcbRRUGDhyewK-A_zTDfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994107951270-qc1cve5gslvm3s5ooivoq68cnugvivlg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994107951270-vep84oa9lcbfvt04rhfnaulv9fj4unak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "in.allbing.syndicate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
